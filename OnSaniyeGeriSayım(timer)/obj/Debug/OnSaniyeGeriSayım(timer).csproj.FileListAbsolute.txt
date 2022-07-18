@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\bin\Debug\OnSaniyeGeriSayım(timer).exe.config
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\bin\Debug\OnSaniyeGeriSayım(timer).exe
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\bin\Debug\OnSaniyeGeriSayım(timer).pdb
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\obj\Debug\OnSaniyeGeriSayım(timer).csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\obj\Debug\OnSaniyeGeriSayım(timer).csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\obj\Debug\OnSaniyeGeriSayım(timer).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\obj\Debug\OnSaniyeGeriSayım(timer).exe
+C:\Users\hp\Desktop\yeni denemeler\OnSaniyeGeriSayım(timer)\obj\Debug\OnSaniyeGeriSayım(timer).pdb
